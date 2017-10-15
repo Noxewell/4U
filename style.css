@@ -1,0 +1,41 @@
+ @import "http://fonts.fontstorage.com/import/clearsans.css";
+
+ body {
+ 	font-family: 'Clear Sans';
+ }
+
+.time-block {
+	border-radius: 5px;
+	border:2px solid #5bc0de;
+	margin-top: 10vh;
+	background:;
+	height: 1440px;
+	width: 100px;
+	text-align: center;
+}
+
+.time {
+	height: 60px;
+	line-height: 60px;
+	box-shadow: 0px 2px  #5bc0de;
+}
+
+.time p {
+	color:#242424;
+}
+
+.info-block {
+	width: 200px;
+	height: 1440px;
+	margin:10vh 10vh;
+}
+
+.green {
+	height: 60px;
+	background:#5cb85c;
+}
+
+.red {
+	height: 60px;
+	background: #d9534f;
+}
